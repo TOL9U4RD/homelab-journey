@@ -56,7 +56,7 @@ homelab-journey/
 
 ## 🔗 Links
 
-- HTB Profile: [hackthebox.com/u/T0L9U4RD](#)
+- HTB Profile: [https://profile.hackthebox.com/profile/019d5ac0-22fb-70f7-aefd-ecbd37fb4556](#)
 - LinkedIn: [linkedin.com/in/tol9u4rd/](#)
 
 ---
